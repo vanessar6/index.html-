@@ -1,0 +1,45 @@
+#navbar {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: maroon 1px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;}
+
+  
+#cabecalho {
+  font-family: initial;
+  border: rgb(170, 206, 253);
+  border: 20px; ;
+  padding: 50px;
+  margin: 50px;
+  box-shadow: mediumpurple 3px 3px 5px;}
+
+
+#body {
+        font-family: inherit;
+  background-color: mintcream 10px;
+  margin: 10px;
+  padding: 4px;}
+
+#conteudo {
+
+    background-color: palegoldenrod;
+    margin: 2px;
+    padding: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: space-between;} 
+
+#rodape {
+    margin-left: 20px;
+    margin-top: 2opx;
+    color: peachpuff;
+    font-family: cursive;
+    padding-bottom: 50px;}
+     
+#head { 
+    background-color: peru;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 40px;
+}
